@@ -1,5 +1,24 @@
 # @backstage/plugin-notifications-backend
 
+## 0.0.1
+
+### Patch Changes
+
+- 8472188: Added or fixed the `repository` field in `package.json`.
+- fb8fc24: Initial notifications system for backstage
+- Updated dependencies
+  - @backstage/backend-common@0.21.0
+  - @backstage/plugin-signals-node@0.0.1
+  - @backstage/backend-plugin-api@0.6.10
+  - @backstage/catalog-model@1.4.4
+  - @backstage/catalog-client@1.6.0
+  - @backstage/plugin-notifications-common@0.0.1
+  - @backstage/plugin-notifications-node@0.0.1
+  - @backstage/plugin-auth-node@0.4.4
+  - @backstage/config@1.1.1
+  - @backstage/errors@1.2.3
+  - @backstage/plugin-events-node@0.2.19
+
 ## 0.0.1-next.1
 
 ### Patch Changes
